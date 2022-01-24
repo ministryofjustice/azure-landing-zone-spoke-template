@@ -16,7 +16,7 @@ The process has the following steps:
 
 The main repository for the Azure Landing Zone, staff-infrastructure-azure-landing-zone, can be found [here](https://github.com/ministryofjustice/staff-infrastructure-azure-landing-zone)
 
-If you have a Confluence account, you can look at the [LLD](https://dsdmoj.atlassian.net/wiki/spaces/PTTPWIK/pages/2875556181/Azure+Landing+Zone+LLD) too which, though the code should be considered the ultimate source of the truth.
+If you have a Confluence account, you can look at the [LLD](https://dsdmoj.atlassian.net/wiki/spaces/PTTPWIK/pages/2875556181/Azure+Landing+Zone+LLD) too, though the code should be considered the ultimate source of the truth.
 
 The Azure Landing Zone uses Github for source control and [Azure DevOps](https://dev.azure.com/MoJ-OFFICIAL/) for Pipelines.
 
